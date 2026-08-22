@@ -1,0 +1,6 @@
+{
+  "name": "Foster A Tech",
+  "description": "A comprehensive marketplace to buy and sell new, open-box, and pre-owned computer accessories with compatibility verification, seller negotiation, and AI setup assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
